@@ -1,0 +1,154 @@
+[
+
+          {
+            "questionNo": "Q1.",
+            "question": "Which of the following is an adjective?",
+            "options": ["Quickly", "Loudly", "Expensive", "Carefully"],
+            "correct": 2
+          },
+          {
+            "questionNo": "Q2.",
+            "question": "Identify the adverb in this sentence: 'He sang the song beautifully.'",
+            "options": ["He", "sang", "song", "beautifully"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q3.",
+            "question": "Which of these words is an adjective?",
+            "options": ["Sometimes", "Rarely", "Exceptional", "Gently"],
+            "correct": 2
+          },
+          {
+            "questionNo": "Q4.",
+            "question": "Fill in the blank with an adverb: She _____ walked home.",
+            "options": ["tired", "slowly", "long", "street"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q5.",
+            "question": "Which of the following is an adverb?",
+            "options": ["Delicious", "Quickly", "Bright", "Tall"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q6.",
+            "question": "Identify the adjective in this sentence: 'The talented artist painted a beautiful landscape.'",
+            "options": ["talented", "beautiful", "painted", "both a and b"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q7.",
+            "question": "Adverbs can modify adjectives.",
+            "options": ["True", "False"],
+            "correct": 0
+          },
+          {
+            "questionNo": "Q8.",
+            "question": "Fill in the blank with an adjective: The _____ mountain was difficult to climb.",
+            "options": ["high", "tall", "steep", "all of the above"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q9.",
+            "question": "Which of the following is an adverb?",
+            "options": ["Wonderful", "Patiently", "Large", "Colourful"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q10.",
+            "question": "Identify the adjective in this sentence: 'The little girl ran happily towards her mother.'",
+            "options": ["little", "girl", "ran", "happily"],
+            "correct": 0
+          },
+          {
+            "questionNo": "Q11.",
+            "question": "Fill in the blank with an adverb: The athlete trained _____ for the upcoming competition.",
+            "options": ["hard", "diligently", "strong", "muscular"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q12.",
+            "question": "Which word in the following sentence is an adverb? 'The drowsy cat lazily stretched on the comfortable couch.'",
+            "options": ["drowsy", "lazily", "comfortable", "stretched"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q13.",
+            "question": "Identify the adjective in this sentence: 'The relentless hiker conquered the treacherous mountain trail.'",
+            "options": ["relentless", "conquered", "treacherous", "both a and c"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q14.",
+            "question": "Which word in the following sentence is an adverb? 'The curious child inquisitively asked endless questions.'",
+            "options": ["curious", "inquisitively", "endless", "asked"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q15.",
+            "question": "Identify the adjective in this sentence: 'The rhythmic waves gently lapped against the sandy shore.'",
+            "options": ["rhythmic", "gently", "lapped", "both a and c"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q16.",
+            "question": "Which word in the following sentence is an adverb? 'The talented musician effortlessly played the complex melody.'",
+            "options": ["talented", "effortlessly", "complex", "both a and c"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q17.",
+            "question": "Identify the adjective in this sentence: 'The vibrant sunset painted the sky with brilliant hues.'",
+            "options": ["vibrant", "brilliant", "hues", "both a and b"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q18.",
+            "question": "Which word in the following sentence is an adverb? 'The graceful dancer graciously accepted the thunderous applause.'",
+            "options": ["graceful", "graciously", "accepted", "both a and b"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q19.",
+            "question": "Identify the adjective in this sentence: 'The fragrant flowers bloomed in the meticulously tended garden.'",
+            "options": ["fragrant", "bloomed", "garden", "tended"],
+            "correct": 0
+          },
+          {
+            "questionNo": "Q20.",
+            "question": "Which word in the following sentence is an adverb? 'The fearless explorer boldly ventured into the unexplored wilderness.'",
+            "options": ["fearless", "boldly", "ventured", "unexplored"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q21.",
+            "question": "Identify the adjective in this sentence: 'The majestic eagle soared gracefully across the cloudless sky.'",
+            "options": ["majestic", "cloudless", "gracefully", "both a and b"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q22.",
+            "question": "Which word in the following sentence is an adverb? 'The patient gardener carefully tended the thriving garden.'",
+            "options": ["patient", "carefully", "tended", "thriving"],
+            "correct": 1
+          },
+          {
+            "questionNo": "Q23.",
+            "question": "Identify the adjective in this sentence: 'The serene lake reflected the towering, snow-capped mountains.'",
+            "options": ["serene", "towering", "snow-capped", "all of the above"],
+            "correct": 3
+          },
+          {
+            "questionNo": "Q24.",
+            "question": "In the sentence, 'The swiftly flowing river carved a winding path through the rugged terrain,' which word is an adverb?",
+            "options": ["swiftly", "flowing", "winding", "rugged"],
+            "correct": 0
+          },
+          {
+            "questionNo": "Q25.",
+            "question": "Which word in the following sentence is an adverb? 'The tireless athlete tirelessly pursued her ambitious goals.'",
+            "options": ["tireless", "tirelessly", "pursued", "ambitious"],
+            "correct": 1
+          }
+      
+]
